@@ -1,0 +1,5 @@
+Used space: 43441553
+Free space: 26558447
+To delete: 3441553
+Directory to delete: djmjhn
+Size: 4978279
