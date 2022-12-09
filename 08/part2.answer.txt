@@ -1,0 +1,4 @@
+Lines: 99
+Columns: 99
+Highest scenic score: 383520
+Best location: 51-78
