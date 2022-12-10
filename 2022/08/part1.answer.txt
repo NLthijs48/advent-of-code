@@ -1,3 +1,0 @@
-Lines: 99
-Columns: 99
-Visible from outside: 1816
