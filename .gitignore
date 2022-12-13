@@ -1,3 +1,5 @@
 # Ignore Intellij IDEA project
 .idea/*
 !.idea/icon.png
+
+input.txt
